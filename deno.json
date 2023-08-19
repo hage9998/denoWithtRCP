@@ -1,0 +1,8 @@
+{
+  "lock": false,
+  "imports": {
+    "@trpc/server": "https://esm.sh/@trpc/server@10.32.0",
+    "@trpcExpress": "https://esm.sh/@trpc/server/adapters/express",
+    "@opine": "https://deno.land/x/opine@2.3.4/mod.ts"
+  }
+}
